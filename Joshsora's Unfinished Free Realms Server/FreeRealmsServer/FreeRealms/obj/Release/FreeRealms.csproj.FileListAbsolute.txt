@@ -1,0 +1,11 @@
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\FreeRealms.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\FreeRealms.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\obj\Release\FreeRealms.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\obj\Release\FreeRealms.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\obj\Release\FreeRealms.csprojResolveAssemblyReference.cache
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\LibSOE.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\log4net.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\Ionic.Zip.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\LibSOE.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\log4net.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Release\Ionic.Zip.xml

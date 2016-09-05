@@ -1,0 +1,8 @@
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\bin\Release\CrapLauncher.exe.config
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\bin\Release\CrapLauncher.exe
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\bin\Release\CrapLauncher.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\obj\Release\CrapLauncher.exe
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\CrapLauncher\obj\Release\CrapLauncher.pdb
+C:\Users\Joshsora\Documents\Coding\C#\FreeRealmsServer\CrapLauncher\obj\Release\CrapLauncher.csprojResolveAssemblyReference.cache

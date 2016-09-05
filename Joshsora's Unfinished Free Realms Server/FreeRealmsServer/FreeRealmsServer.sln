@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decompress", "Decompress\Decompress.csproj", "{251476AF-7019-4BE6-8595-E5E21DEBE593}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gateway", "Gateway\Gateway.csproj", "{EBB67EDF-E3E3-482E-B97A-C1A06F627560}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5} = {23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeRealms", "FreeRealms\FreeRealms.csproj", "{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrapLauncher", "CrapLauncher\CrapLauncher.csproj", "{B7736D9F-56F2-4A34-84B5-4F7D3554EB32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{251476AF-7019-4BE6-8595-E5E21DEBE593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{251476AF-7019-4BE6-8595-E5E21DEBE593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{251476AF-7019-4BE6-8595-E5E21DEBE593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{251476AF-7019-4BE6-8595-E5E21DEBE593}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBB67EDF-E3E3-482E-B97A-C1A06F627560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBB67EDF-E3E3-482E-B97A-C1A06F627560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBB67EDF-E3E3-482E-B97A-C1A06F627560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBB67EDF-E3E3-482E-B97A-C1A06F627560}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23544EF2-E0DC-4DDB-8C66-FC626DDDE8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7736D9F-56F2-4A34-84B5-4F7D3554EB32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7736D9F-56F2-4A34-84B5-4F7D3554EB32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7736D9F-56F2-4A34-84B5-4F7D3554EB32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7736D9F-56F2-4A34-84B5-4F7D3554EB32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

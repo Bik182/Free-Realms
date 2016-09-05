@@ -1,0 +1,10 @@
+<2016-01-20 19:05:45,803> :Gateway: [INFO] Constructing gateway...
+<2016-01-20 19:05:45,835> :AccountManager: [INFO] Service constructed
+<2016-01-20 19:05:45,842> :CommandManager: [INFO] Service constructed
+<2016-01-20 19:05:45,849> :ClientLogManager: [INFO] Service constructed
+<2016-01-20 19:05:45,861> :LoginManager: [INFO] Service constructed
+<2016-01-20 19:05:45,864> :Gateway: [INFO] Finished constructing gateway!
+<2016-01-20 19:07:21,176> :LoginManager: [DEBUG] Received login request from client 0, token: eYJoDKpRZBKz, version: 1.910.1.530630
+<2016-01-20 19:07:24,677> :LoginManager: [INFO] Successful login!
+<2016-01-20 19:07:24,682> :AccountManager: [INFO] Account 'joshsora' has successfully logged in!
+<2016-01-20 19:07:24,864> :AccountManager: [INFO] Logging out 'joshsora'!

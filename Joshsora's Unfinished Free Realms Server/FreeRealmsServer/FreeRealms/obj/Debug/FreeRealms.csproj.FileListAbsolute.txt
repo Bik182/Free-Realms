@@ -1,0 +1,4 @@
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Debug\FreeRealms.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\bin\Debug\FreeRealms.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\FreeRealms\obj\Debug\FreeRealms.pdb

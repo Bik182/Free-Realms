@@ -1,0 +1,8 @@
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\bin\Release\Decompress.exe.config
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\bin\Release\Decompress.exe
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\bin\Release\Decompress.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\bin\Release\Ionic.Zip.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\bin\Release\Ionic.Zip.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\obj\Release\Decompress.csprojResolveAssemblyReference.cache
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\obj\Release\Decompress.exe
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Decompress\obj\Release\Decompress.pdb

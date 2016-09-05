@@ -1,0 +1,5 @@
+<2016-01-20 19:23:32,265> :Gateway: [INFO] Constructing gateway...
+<2016-01-20 19:23:32,275> :LoginManager: [INFO] Service constructed
+<2016-01-20 19:23:32,277> :Gateway: [INFO] Finished constructing gateway!
+<2016-01-20 19:25:24,651> :LoginManager: [DEBUG] Received login request from client 0, token: jmjsWF3wz4pN, version: 1.910.1.530630
+<2016-01-20 19:25:25,184> :LoginManager: [INFO] Successful login!

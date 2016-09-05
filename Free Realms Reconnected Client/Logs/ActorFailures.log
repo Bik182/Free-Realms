@@ -1,0 +1,8 @@
+2014-03-27	18:00:07		1395957514	80772	4	4296561447	Incomplete mipmap Chain:  Actor 'sg_billboard_advertising_01.adr' references texture 'billboard_rotator_ad.dds' (256 x 256) with 1 mips (needs full mipmap chain)
+2014-03-27	18:00:52		1395957514	89764	4	4296605993	Actor definition pending texture alias tiger-stripes (with override texture <empty>) for actor panthera_m_sabertooth_stone.adr failed to load!
+2014-03-27	18:01:16		1395957514	91358	4	4296630069	Actor definition pending texture alias LongJohns (with override texture <empty>) for actor sg_spawner_robgoblin_01.adr failed to load!
+2014-03-27	18:02:37		1395957514	92457	4	4296711009	Actor definition pending texture alias tiger-stripes (with override texture <empty>) for actor panthera_m_sabertooth_stone.adr failed to load!
+2014-03-27	18:03:04		1395957514	92578	4	4296738134	Actor definition pending texture alias tiger-stripes (with override texture <empty>) for actor panthera_m_sabertooth_stone.adr failed to load!
+2014-03-27	18:17:12		1395957514	97554	4	4297586669	Actor definition pending texture alias fun-trampolinelarge-L1 (with override texture <empty>) for actor hsg_trampoline_large_01.adr failed to load!
+2014-03-27	18:17:12		1395957514	97555	4	4297586670	Actor definition pending texture alias fun-trampolinelarge-L1 (with override texture <empty>) for actor hsg_trampoline_large_01.adr failed to load!
+2014-03-27	18:17:12		1395957514	97556	4	4297586670	Actor definition pending texture alias fun-trampolinelarge-L1 (with override texture <empty>) for actor hsg_trampoline_large_01.adr failed to load!

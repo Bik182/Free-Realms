@@ -1,0 +1,15 @@
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Gateway.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Gateway.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\FreeRealms.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\LibSOE.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\log4net.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Newtonsoft.Json.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Ionic.Zip.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\FreeRealms.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\LibSOE.pdb
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\log4net.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Newtonsoft.Json.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\bin\Release\Ionic.Zip.xml
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\obj\Release\Gateway.csprojResolveAssemblyReference.cache
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\obj\Release\Gateway.dll
+C:\Users\Joshsora\documents\Coding\C#\FreeRealmsServer\Gateway\obj\Release\Gateway.pdb

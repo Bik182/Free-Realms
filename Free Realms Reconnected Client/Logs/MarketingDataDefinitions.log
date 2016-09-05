@@ -1,0 +1,81 @@
+2014-03-27	17:58:50		1395957514	193	4	4296484295	ClientInGamePurchaseStoreManager::Initialize - Starting up with automatic data reload enabled, dataPath=.\Resources\Marketing\, schemaFilepath=.\Resources\Marketing\\MarketingDataClientSchema.xml.
+2014-03-27	17:58:50		1395957514	194	4	4296484296	EnableAutomaticUpdates - enabled=0, dataRefreshHour=00:00GMT.
+2014-03-27	17:58:50		1395957514	195	4	4296484296	MarketingDataUpdater - Starting up, dataLoaderType=FlatFileLoader, reloadFileName=marketingdata.reload.txt.
+2014-03-27	18:00:40		1395957514	89117	4	4296594733	MarketingDataUpdater - Load attempt, type=Forced.
+2014-03-27	18:00:41		1395957514	89118	4	4296594737	Loading new marketing data.
+2014-03-27	18:00:41		1395957514	89119	4	4296594739	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStoreBillboards.txt
+2014-03-27	18:00:41		1395957514	89120	4	4296594740	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStoreBillboards.txt numberOfRows read: 2
+2014-03-27	18:00:41		1395957514	89121	4	4296594740	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStoreBillboardPanels.txt
+2014-03-27	18:00:41		1395957514	89122	4	4296594740	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStoreBillboardPanels.txt numberOfRows read: 6
+2014-03-27	18:00:41		1395957514	89123	4	4296594740	LoadRecordSetFromFile beginning read .\Resources\Marketing\ClientStorePortalCategories.txt
+2014-03-27	18:00:41		1395957514	89124	4	4296594741	LoadRecordSetFromFile: file .\Resources\Marketing\ClientStorePortalCategories.txt numberOfRows read: 6
+2014-03-27	18:00:41		1395957514	89125	4	4296594741	LoadRecordSetFromFile beginning read .\Resources\Marketing\Configuration.txt
+2014-03-27	18:00:41		1395957514	89127	4	4296594741	LoadRecordSetFromFile failed read
+2014-03-27	18:00:41		1395957514	89128	4	4296594741	MarketingDataUpdater - Next update will occur at 2014-03-28T00:05:00Z (PST)
+2014-03-27	18:00:41		1395957514	89129	4	4296594741	MarketingDataUpdater - looking for update file
+2014-03-27	18:00:41		1395957514	89165	4	4296595037	MarketingDataUpdater - Marketing data load complete, result=0, totalTime=298 ms.
+2014-03-27	18:00:41		1395957514	89246	4	4296595208	MarketingDataUpdater - HandleUpdateComplete
+2014-03-27	18:00:41		1395957514	89247	4	4296595210	ClientInGamePurchaseStoreManager::OnDataUpdate - Loading new definition data from the data source.
+2014-03-27	18:00:41		1395957514	89248	4	4296595211	SUCCESSFULLY loaded 6 storePortalCategory entry(s).
+2014-03-27	18:00:41		1395957514	89249	4	4296595211	SUCCESSFULLY loaded 6 storeBillboardPanel entry(s).
+2014-03-27	18:00:41		1395957514	89250	4	4296595211	SUCCESSFULLY loaded 2 storeBillboard entry(s).
+2014-03-27	18:00:41		1395957514	89251	4	4296595211	ClientInGamePurchaseStoreManager::OnDataUpdate - Data load complete, totalTime=0 ms.
+2014-03-27	18:01:07		1395957514	90889	2	4296621546	Invalid store shortcut type, shortcutId=15, storeId=418504660.
+2014-03-27	18:01:41		1395957514	91932	4	4296655621	MarketingDataUpdater - looking for update file
+2014-03-27	18:02:42		1395957514	92515	4	4296716601	MarketingDataUpdater - looking for update file
+2014-03-27	18:03:44		1395957514	92973	4	4296777798	MarketingDataUpdater - looking for update file
+2014-03-27	18:04:44		1395957514	93328	4	4296838628	MarketingDataUpdater - looking for update file
+2014-03-27	18:05:46		1395957514	93844	4	4296899717	MarketingDataUpdater - looking for update file
+2014-03-27	18:06:46		1395957514	94109	4	4296960613	MarketingDataUpdater - looking for update file
+2014-03-27	18:07:47		1395957514	94132	4	4297021600	MarketingDataUpdater - looking for update file
+2014-03-27	18:08:48		1395957514	94707	4	4297082603	MarketingDataUpdater - looking for update file
+2014-03-27	18:09:49		1395957514	94811	4	4297143603	MarketingDataUpdater - looking for update file
+2014-03-27	18:10:50		1395957514	95091	4	4297204626	MarketingDataUpdater - looking for update file
+2014-03-27	18:11:52		1395957514	96393	4	4297265625	MarketingDataUpdater - looking for update file
+2014-03-27	18:12:52		1395957514	96477	4	4297326610	MarketingDataUpdater - looking for update file
+2014-03-27	18:13:53		1395957514	96607	4	4297387633	MarketingDataUpdater - looking for update file
+2014-03-27	18:14:54		1395957514	96696	4	4297448617	MarketingDataUpdater - looking for update file
+2014-03-27	18:15:55		1395957514	96834	4	4297509609	MarketingDataUpdater - looking for update file
+2014-03-27	18:17:18		1395957514	98006	4	4297592068	MarketingDataUpdater - looking for update file
+2014-03-27	18:18:18		1395957514	98671	4	4297652702	MarketingDataUpdater - looking for update file
+2014-03-27	18:19:19		1395957514	99121	4	4297713618	MarketingDataUpdater - looking for update file
+2014-03-27	18:20:20		1395957514	99415	4	4297774626	MarketingDataUpdater - looking for update file
+2014-03-27	18:21:21		1395957514	99568	4	4297835601	MarketingDataUpdater - looking for update file
+2014-03-27	18:22:22		1395957514	99743	4	4297896614	MarketingDataUpdater - looking for update file
+2014-03-27	18:23:24		1395957514	99967	4	4297957625	MarketingDataUpdater - looking for update file
+2014-03-27	18:24:25		1395957514	100202	4	4298018607	MarketingDataUpdater - looking for update file
+2014-03-27	18:25:25		1395957514	100298	4	4298079676	MarketingDataUpdater - looking for update file
+2014-03-27	18:26:27		1395957514	100431	4	4298140611	MarketingDataUpdater - looking for update file
+2014-03-27	18:27:27		1395957514	100600	4	4298201634	MarketingDataUpdater - looking for update file
+2014-03-27	18:28:28		1395957514	100843	4	4298262627	MarketingDataUpdater - looking for update file
+2014-03-27	18:29:30		1395957514	101194	4	4298323623	MarketingDataUpdater - looking for update file
+2014-03-27	18:30:30		1395957514	101506	4	4298384605	MarketingDataUpdater - looking for update file
+2014-03-27	18:31:31		1395957514	101909	4	4298445618	MarketingDataUpdater - looking for update file
+2014-03-27	18:32:32		1395957514	102183	4	4298506624	MarketingDataUpdater - looking for update file
+2014-03-27	18:33:34		1395957514	102374	4	4298567612	MarketingDataUpdater - looking for update file
+2014-03-27	18:34:34		1395957514	102860	4	4298628609	MarketingDataUpdater - looking for update file
+2014-03-27	18:35:35		1395957514	103155	4	4298689609	MarketingDataUpdater - looking for update file
+2014-03-27	18:36:36		1395957514	103338	4	4298750617	MarketingDataUpdater - looking for update file
+2014-03-27	18:37:37		1395957514	103473	4	4298811612	MarketingDataUpdater - looking for update file
+2014-03-27	18:38:38		1395957514	103625	4	4298872618	MarketingDataUpdater - looking for update file
+2014-03-27	18:39:39		1395957514	103854	4	4298933618	MarketingDataUpdater - looking for update file
+2014-03-27	18:40:40		1395957514	104292	4	4298994617	MarketingDataUpdater - looking for update file
+2014-03-27	18:41:42		1395957514	104733	4	4299055630	MarketingDataUpdater - looking for update file
+2014-03-27	18:42:43		1395957514	104915	4	4299116601	MarketingDataUpdater - looking for update file
+2014-03-27	18:43:44		1395957514	105246	4	4299177871	MarketingDataUpdater - looking for update file
+2014-03-27	18:44:45		1395957514	105717	4	4299238618	MarketingDataUpdater - looking for update file
+2014-03-27	18:45:45		1395957514	106330	4	4299299629	MarketingDataUpdater - looking for update file
+2014-03-27	18:46:46		1395957514	106616	4	4299360606	MarketingDataUpdater - looking for update file
+2014-03-27	18:47:47		1395957514	106679	4	4299421600	MarketingDataUpdater - looking for update file
+2014-03-27	18:48:48		1395957514	106896	4	4299482617	MarketingDataUpdater - looking for update file
+2014-03-27	18:49:49		1395957514	107183	4	4299543616	MarketingDataUpdater - looking for update file
+2014-03-27	18:50:51		1395957514	107320	4	4299604632	MarketingDataUpdater - looking for update file
+2014-03-27	18:51:51		1395957514	107447	4	4299665612	MarketingDataUpdater - looking for update file
+2014-03-27	18:52:52		1395957514	107722	4	4299726612	MarketingDataUpdater - looking for update file
+2014-03-27	18:53:54		1395957514	108095	4	4299787601	MarketingDataUpdater - looking for update file
+2014-03-27	18:54:54		1395957514	108383	4	4299848615	MarketingDataUpdater - looking for update file
+2014-03-27	18:55:55		1395957514	108650	4	4299909610	MarketingDataUpdater - looking for update file
+2014-03-27	18:56:56		1395957514	108937	4	4299970624	MarketingDataUpdater - looking for update file
+2014-03-27	18:57:57		1395957514	109292	4	4300031620	MarketingDataUpdater - looking for update file
+2014-03-27	18:58:58		1395957514	109566	4	4300092617	MarketingDataUpdater - looking for update file
+2014-03-27	18:59:12		1395957514	109682	4	4300105606	MarketingDataUpdater - Shutting down.

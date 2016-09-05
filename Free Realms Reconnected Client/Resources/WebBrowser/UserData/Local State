@@ -1,0 +1,32 @@
+{
+   "": "",
+   "HostReferralList": [ [ "help.freerealms.com", [ "auth.station.sony.com", 84, "www.rnengage.com", 92 ] ] ],
+   "StartupDNSPrefetchList": [ "clients2.google.com", "help.freerealms.com", "www.google.com" ],
+   "intl": {
+      "app_locale": "en-US"
+   },
+   "uninstall_metrics": {
+      "launch_count": "18"
+   },
+   "user_experience_metrics": {
+      "session_id": 17,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 0,
+         "debugger_not_present": 0,
+         "debugger_present": 0,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 0,
+         "last_timestamp_sec": "1386811731",
+         "launch_count": 18,
+         "launch_time_sec": "1386811730",
+         "page_load_count": 0,
+         "renderer_crash_count": 0,
+         "renderer_hang_count": 0,
+         "session_end_completed": true,
+         "stats_buildtime": "1320765344",
+         "stats_version": "1, 6, 3, 0-devel"
+      }
+   }
+}

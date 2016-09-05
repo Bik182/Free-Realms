@@ -1,0 +1,5 @@
+<2016-06-19 22:55:25,140> :Gateway: [INFO] Constructing gateway...
+<2016-06-19 22:55:25,148> :LoginManager: [INFO] Service constructed
+<2016-06-19 22:55:25,149> :Gateway: [INFO] Finished constructing gateway!
+<2016-06-19 22:57:13,285> :LoginManager: [DEBUG] Received login request from client 0, token: DWCq3TMkGwj9ZZt, version: 1.910.1.530630
+<2016-06-19 22:57:15,203> :LoginManager: [FATAL] Received bad response from login server!
